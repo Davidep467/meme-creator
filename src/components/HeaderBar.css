@@ -1,0 +1,19 @@
+.header {
+  width: 100%;
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: #87ceeb;
+  color: black;
+  margin: 0;
+}
+.logo {
+  width: 300px;
+}
+
+@media only screen and (max-device-width: 900px) {
+  .logo {
+    width: 250px;
+  }
+}
