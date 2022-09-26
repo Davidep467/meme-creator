@@ -1,0 +1,50 @@
+.memecontainer {
+text-align: center;
+    /* border: dotted 1px grey; */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+ 
+}
+#main {
+    text-align: center;
+   
+}
+.uppertext {
+    position:absolute;
+    cursor: pointer;
+    text-shadow: 2px 0 #fff, -2px 0 #fff, 0 2px #fff, 0 -2px #fff,
+    1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;   
+   
+}
+
+.lowertext {
+    position:absolute;
+    margin-top: 300px;
+    cursor: pointer;
+    text-shadow: 2px 0 #fff, -2px 0 #fff, 0 2px #fff, 0 -2px #fff,
+    1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;
+ 
+}
+.thirdtext {
+    position:absolute;
+    margin-top: 200px;
+    cursor: pointer;
+    text-shadow: 2px 0 #fff, -2px 0 #fff, 0 2px #fff, 0 -2px #fff,
+    1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;
+ 
+}
+
+.imagestyle {
+  text-align: center;
+  width:100%;
+  margin-bottom:-3px;
+}
+   
+
+canvas {
+    display:none
+}
+
+/* @font-face {
+    font-family: Oldfont;
+    src: url(MostraOneBoldRegular.ttf);
+} */
