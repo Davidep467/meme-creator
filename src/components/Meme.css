@@ -1,6 +1,5 @@
 .memecontainer {
   text-align: center;
-  /* border: dotted 1px grey; */
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
 }
@@ -39,7 +38,4 @@ canvas {
   display: none;
 }
 
-/* @font-face {
-    font-family: Oldfont;
-    src: url(MostraOneBoldRegular.ttf);
-} */
+
