@@ -1,6 +1,5 @@
 import React, { useContext, useState, useEffect, useRef } from "react";
 import Draggable from "react-draggable";
-// import { Resizable } from "re-resizable";
 
 import "./Meme.css";
 import DataContext from "../store/data-context";
