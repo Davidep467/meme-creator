@@ -1,8 +1,9 @@
 # meme-creator
 
-<ins>Description:<7ins>
+<ins>Description:</ins>
 
 Front-end app for creating memes. 
+
 User can add up to three text boxes, move them to the desired position, control text size (only on desktop) and download the image on his/her device.
 
 <ins>Used technologies:</ins>
